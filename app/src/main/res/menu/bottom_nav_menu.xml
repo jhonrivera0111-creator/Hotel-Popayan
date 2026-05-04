@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/casa"
+        android:title="Inicio" />
+
+    <item
+        android:id="@+id/nav_reservas"
+        android:icon="@drawable/calendario"
+        android:title="Reservas"
+        />
+
+    <item
+        android:id="@+id/nav_rooms"
+        android:icon="@drawable/cama"
+        android:title="Habitaciones" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/usuario"
+        android:title="Perfil" />
+
+</menu>
