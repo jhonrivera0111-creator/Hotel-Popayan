@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">HotelPopayan</string>
+    <string name="app_name">Hotel Popayan</string>
+    <string name="hotel_name">Hotel Ciudad Blanca</string>
+    <string name="btn_login">Iniciar Sesion</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="label_email">Email*</string>
+    <string name="hint_email">ingrese su email</string>
+    <string name="label_password">Password*</string>
+    <string name="hint_password">ingrese su contraseña</string>
+    <string name="label_user">Nombre Usuario*</string>
+    <string name="hint_user">ingrese un nombre de usuario</string>
+    <string name="label_id">Identificacion*</string>
+    <string name="hint_id">ingrese su Identificacion</string>
+    <string name="label_phone">Teléfono*</string>
+    <string name="hint_phone">ingrese su Teléfono</string>
+    <string name="desc_register">Confirmar registro</string>
 </resources>
